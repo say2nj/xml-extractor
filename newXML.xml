@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<catalog>
+	<book id="bk101">
+		<title>XML Developer's Guide</title>
+		<desc>An in-depth look at creating applications
+      with XML.</desc>
+		<price>44.95</price>
+	</book>
+
+	<book id="bk102">
+		<title>Midnight Rain</title>
+		<desc>A former architect battles corporate zombies,
+      an evil sorceress, and her own childhood to become queen
+      of the world.</desc>
+		<price>5.95</price>
+	</book>
+
+	<book id="bk103">
+		<title>Maeve Ascendant</title>
+		<desc>After the collapse of a nanotechnology
+      society in England, the young survivors lay the
+      foundation for a new society.</desc>
+		<price>5.95</price>
+	</book>
+
+	<book id="bk104">
+		<title>Oberon's Legacy</title>
+		<desc>In post-apocalypse England, the mysterious
+      agent known only as Oberon helps to create a new life
+      for the inhabitants of London. Sequel to Maeve
+      Ascendant.</desc>
+		<price>5.95</price>
+	</book>
+
+	<book id="bk105">
+		<title>The Sundered Grail</title>
+		<desc>The two daughters of Maeve, half-sisters,
+      battle one another for control of England. Sequel to
+      Oberon's Legacy.</desc>
+		<price>5.95</price>
+	</book>
+
+	<book id="bk106">
+		<title>Lover Birds</title>
+		<desc>When Carla meets Paul at an ornithology
+      conference, tempers fly as feathers get ruffled.</desc>
+		<price>4.95</price>
+	</book>
+
+	<book id="bk107">
+		<title>Splish Splash</title>
+		<desc>A deep sea diver finds true love twenty
+      thousand leagues beneath the sea.</desc>
+		<price>4.95</price>
+	</book>
+
+	<book id="bk108">
+		<title>Creepy Crawlies</title>
+		<desc>An anthology of horror stories about roaches,
+      centipedes, scorpions  and other insects.</desc>
+		<price>4.95</price>
+	</book>
+
+	<book id="bk109">
+		<title>Paradox Lost</title>
+		<desc>After an inadvertant trip through a Heisenberg
+      Uncertainty Device, James Salway discovers the problems
+      of being quantum.</desc>
+		<price>6.95</price>
+	</book>
+
+	<book id="bk110">
+		<title>Microsoft .NET: The Programming Bible</title>
+		<desc>Microsoft's .NET initiative is explored in
+      detail in this deep programmer's reference.</desc>
+		<price>36.95</price>
+	</book>
+
+	<book id="bk111">
+		<title>MSXML3: A Comprehensive Guide</title>
+		<desc>The Microsoft MSXML3 parser is covered in
+      detail, with attention to XML DOM interfaces, XSLT processing,
+      SAX and more.</desc>
+		<price>36.95</price>
+	</book>
+
+	<book id="bk112">
+		<title>Visual Studio 7: A Comprehensive Guide</title>
+		<desc>Microsoft Visual Studio 7 is explored in depth,
+      looking at how Visual Basic, Visual C++, C#, and ASP+ are
+      integrated into a comprehensive development
+      environment.</desc>
+		<price>49.95</price>
+	</book>
+
+</catalog>
